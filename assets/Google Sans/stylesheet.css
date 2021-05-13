@@ -76,6 +76,12 @@ h1 {
     font-style: normal;
 }
 
+h2 {
+    font-family: 'Google Sans';
+    font-weight: bold;
+    font-style: medium;
+}
+
 p {
     font-family: 'Google Sans';
     font-weight: normal;
