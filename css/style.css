@@ -36,16 +36,6 @@ a {
 .navbar .logo img{
     display: flex;
     height: 38px;
-    color: rgb(27, 27, 27);
-    font-size: 25px;
-    font-weight: bold ;
-
-}
-
-.navbar.sticky .logo a{
-    color: rgb(27, 27, 27);
-    font-size: 25px;
-    font-weight: bold ;
 }
 
 .navbar .menu li {
