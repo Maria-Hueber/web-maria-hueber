@@ -1,12 +1,8 @@
 
-* {
-    margin: 0;
-    padding: 0;
-}
 .max-width {
     max-width: 1300px;
     padding: 0 80px;
-    margin: auto;
+    margin: 5px;
 }
 
 a {
@@ -23,7 +19,7 @@ a {
 }
 
 .navbar.sticky{
-    padding: 15px 0;
+    padding: 13px 0;
     background: rgb(255, 255, 255);
 }
 
@@ -44,7 +40,7 @@ a {
 }
 
 .navbar .menu li a{
-    color: rgb(255, 255, 255);
+    color: rgb(255, 249, 249);
     font-size: 15px;
     font-weight: 400;
     margin-left: 25px;
